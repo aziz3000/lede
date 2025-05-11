@@ -122,7 +122,7 @@ endef
 TARGET_DEVICES += elecom_wrc-1167fs
 
 define Device/glinet_gl-mt300n-v2
-  IMAGE_SIZE := 16064k
+  IMAGE_SIZE := 65216k
   DEVICE_VENDOR := GL.iNet
   DEVICE_MODEL := GL-MT300N
   DEVICE_VARIANT := V2
